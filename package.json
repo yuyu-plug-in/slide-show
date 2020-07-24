@@ -1,0 +1,10 @@
+{
+  "name": "@yuyu/slide-show",
+  "version": "1.0.0",
+  "description": "slide-show",
+  "main": "index.js",
+  "repository": "https://github.com/yuyu-plug-in/-yuyu-slideshow.git",
+  "author": "yuyuoce <1440771511@qq.com>",
+  "license": "MIT",
+  "private": true
+}
