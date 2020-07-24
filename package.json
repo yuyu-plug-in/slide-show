@@ -1,8 +1,8 @@
 {
   "name": "slide-show",
   "version": "1.0.0",
-  "description": "this is slide show",
-  "main": "slide-show/index.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +13,7 @@
   "keywords": [
     "slide"
   ],
-  "author": "yuyucode 1440771511@qq.com",
+  "author": "yuyucode <1440771511@qq.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/yuyu-plug-in/slide-show/issues"
